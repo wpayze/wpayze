@@ -20,6 +20,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/will_paiz/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/will_paiz/#gh-dark-mode-only)
 
+### Languages and Tools:
+
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />][website]
