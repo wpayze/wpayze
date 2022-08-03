@@ -1,6 +1,7 @@
 # Hi there, I'm Wil 👋 
 
 [![Website](https://img.shields.io/website?label=wilfredopaiz.com&style=for-the-badge&url=https%3A%2F%2Fwilfredopaiz.com)](https://wilfredopaiz.com)
+![](https://komarev.com/ghpvc/?username=wpayze&color=0aa860)
 
 ## I'm a Software Developer 😃
 
