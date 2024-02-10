@@ -8,7 +8,7 @@
 - ❤️ I love React and Laravel🔥.
 - 🌱 I’m currently learning DevOps Culture and Mobile Development.
 - 🥅 2022 Goals: Collaborate in Open Source projects!
-- ⚡ Fun fact: I like Basketball🏀, Chess♟️, and Rubik Cubes🧩.
+- ⚡ Fun fact: I like Basketball🏀, Chess♟️, Poker🃏, and Rubik Cubes🧩.
 
 ### Connect with me:
 
